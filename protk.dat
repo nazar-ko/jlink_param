@@ -1,0 +1,10 @@
+name             ParamEditor
+startup          java
+java_app_class   com.ptc.jlinkdemo.parameditor.ParamEditor
+java_app_classpath T:\ME\Programming\J-link\JLinkProjects\jlink_param\dist\jlink_param.jar
+java_app_start   start
+java_app_stop    stop
+allow_stop       true
+delay_start      false
+text_dir         T:\ME\Programming\J-link\JLinkProjects\jlink_param\text
+end
